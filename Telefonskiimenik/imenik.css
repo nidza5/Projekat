@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+margin-top:0px;
+padding-top:0px;
+background-image:url(images/slika1.png);
+
+
+    letter-spacing: 0.12em;
+    line-height: 1.8em;
+
+
+}
+.centriranje h1 {
+	color: #FD0006;
+	padding-left: 400px;
+	text-transform:uppercase;
+
+}
+.naslov{
+margin-top:30px;
+
+}
+.centriranje p {
+	padding-left: 50px;
+	padding-right: 50px;
+	
+}
+.frame{
+color: #FFFFFF;
+float:left;
+padding-top:100px;
+}
+.slika{
+float:left;
+padding-top:100px;
+}
+.slika2{
+float:left;
+padding-top:100px;
+}
